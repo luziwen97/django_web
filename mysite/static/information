@@ -1,0 +1,3 @@
+在Django中，一般将这些静态文件放在static目录中。
+前端三大块HTML、CSS、JavaScript，还有各种插件，它们齐全才是一个完整的页面
+你的CSS、JS和各种插件都可以放置在这个目录里。比如这里，我们又在static下新建了一个js目录，然后拷贝了一个jquery-3.2.1.min.js进来：
